@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali Karimi</h1>
-<h3 align="center">A passionate software developer living in the USA.</h3>
+<h3 align="center">A passionate software developer.</h3>
 
 - 🔭 I’m currently working at **Discovery Partners Institute (DPI) as a software developer apprentice.**
 
