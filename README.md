@@ -15,9 +15,11 @@
 
 - 💬 Ask me about **anything you'd like to know.**
 
-- 📫 How to reach me **ali216k@gmail.com**
+- 📫 How to reach me: **ali216k@gmail.com**
 
-- ⚡ Fun fact **I like listening podcasts.**
+- 💬 My favorite quote: "Stay Hungry; Stay Foolish"
+
+- ⚡ Fun fact: **I like listening podcasts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
