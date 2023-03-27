@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **nothing at the moment.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/karimi65/links](https://github.com/karimi65/links)
+- 👨‍💻 Some of my projects are available at [https://github.com/karimi65/links](https://github.com/karimi65/links)
 
 - 📝 I sometimes write articles on [https://dev.to/karimi](https://dev.to/karimi)
 
