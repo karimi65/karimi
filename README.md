@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **ali216k@gmail.com**
 
-- 💬 My favorite quote: "Stay Hungry; Stay Foolish"
+- 💬 My favorite quote: **"Stay Hungry; Stay Foolish"**
 
 - ⚡ Fun fact: **I like listening podcasts.**
 
