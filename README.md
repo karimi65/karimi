@@ -11,8 +11,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://karimi65.github.io/portfolio.html](https://karimi65.github.io/portfolio.html)
 
-- 📝 I sometimes write articles on [https://dev.to/karimi](https://dev.to/karimi)
-
 - 💬 Ask me about **anything you'd like to know.**
 
 - 📫 How to reach me: **ali216k@gmail.com**
