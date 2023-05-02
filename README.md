@@ -17,7 +17,7 @@
 
 - 💬 My favorite quote: **"Stay Hungry; Stay Foolish"**
 
-- ⚡ Fun fact: **I like listening podcasts.**
+- ⚡ Fun fact: **Me and many others like me are the last generation lived our entire chilhood without the internet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
